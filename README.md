@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Developer** from Edmonton, Canada, passionate about creating dynamic web applications with a focus on frontend technologies. Currently Three.Js obsessed.
+I'm a **Developer** from Edmonton, Canada, passionate about user experience, and front end technologies. Currently Three.Js obsessed.
 
 ### 🛠 Tools
 
