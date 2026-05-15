@@ -69,4 +69,4 @@
 
 ### 💬 Let's Connect
 
-Interested in collaborating or in need of a creative developer? [Send me an email](mailto:tysonskakun@gmail.com) or visit my [website](https://tysonskakun.dev)!
+Connect: [Send me an email](mailto:tysonskakun@gmail.com) or visit my [website](https://tysonskakun.dev)
